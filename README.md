@@ -1,30 +1,7 @@
-# testvue
+## 项目简介
 
-> A Vue.js project
+这是一个Vue项目，搭建的目的是测试Redux在Vue中如何使用，以及比较Redux和Vuex在功能上的异同。
 
-## Build Setup
+同时，我们尝试自己用原生js实现类似Redux和Vuex的功能，这是一件很酷的事情。
 
-``` bash
-# install dependencies
-npm install
 
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-
-# run unit tests
-npm run unit
-
-# run e2e tests
-npm run e2e
-
-# run all tests
-npm test
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
